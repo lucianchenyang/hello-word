@@ -1,2 +1,5 @@
 # hello-word
-just the test
+// just the test
+
+//hi lucian ;
+//this is the first to use the github
